@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercice_Gestion_Notes</string>
+    <string-array name="modules">
+        <item>Math</item>
+        <item>Informatique</item>
+        <item>Physics</item>
+        <item>Sport</item>
+        <item>English</item>
+    </string-array>
+</resources>
